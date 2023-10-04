@@ -5,7 +5,7 @@ body {
 /* Navigation Bar */
 
 #home {
-  background-color:  #7600bc;
+  background-color:  black;
   padding-bottom: 1cm;
   margin-left:-1cm;
   margin-right:-1cm;
@@ -26,6 +26,8 @@ body {
 .topmenu:hover {
   color: white;
   /* Add the styles here */
+  font-weight: bolder;
+  text-decoration: underline;
 }
 
 .topdiv {
@@ -37,6 +39,8 @@ body {
   float: left;
   padding-left: 2cm;
   /* Add the styles here */
+  color: #6882B9;
+  font-size: 35px;
 }
 
 .profile_name .contact_info {
@@ -60,7 +64,7 @@ h2 {
   font-size: 50px;
   text-align: center;
   float: left;
-  color: #7600bc;
+  color: #6882B9;
   margin: 30px;
   margin-left: 60px;
   margin-top: 40px;
@@ -94,7 +98,7 @@ h2 {
 #about-me h1 {
   font-size: 65px;
   margin-top: 90px;
-  color: #7600bc;
+  color: #6882B9;
 }
 
 #about-me p {
@@ -212,7 +216,7 @@ h2 {
 }
 
 .recommendation span {
-  color: #7600bc;
+  color: #6882B9;
   font-size: 20px;
   font-family: 'Times New Roman', Times, serif;
 }
@@ -223,7 +227,7 @@ h2 {
   width: 48px;
   height: 48px;
   border-radius: 100%;
-  background-color: #7600bc;
+  background-color: #6882B9;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -237,7 +241,7 @@ h2 {
 
 .popup {
   width:400px;
-  background-color: #e8bcf0;
+  background-color: #CFD6D5;
   border-radius: 3mm;
   top: 50%;
   left:50%;
@@ -254,8 +258,8 @@ h2 {
 
 .popup button {
   background-color: #fff;
-  border: 1px solid #7600bc;
-  color: #7600bc;
+  border: 1px solid #6882B9;
+  color: #6882B9;
   display: block;
   border-radius: 6px;
   text-align: center;
@@ -268,8 +272,8 @@ h2 {
 
 .popup button:hover {
   background-color: #fff;
-  border: 2px solid #7600bc;
-  color: #7600bc;
+  border: 2px solid #6882B9;
+  color: #6882B9;
   display: block;
   font-weight: bolder;
   text-align: center;
@@ -300,8 +304,8 @@ fieldset {
 
 button {
   background-color: #fff;
-  border: 1px solid #7600bc;
-  color: #7600bc;
+  border: 1px solid #6882B9;
+  color: #6882B9;
   display: block;
   border-radius: 6px;
   text-align: center;
@@ -312,8 +316,8 @@ button {
 }
 
 button:hover {
-  background-color: #7600bc;
-  border: 1px solid #7600bc;
+  background-color: #6882B9;
+  border: 1px solid #6882B9;
   color: #fff;
   display: block;
   border-radius: 6px;
